@@ -1,2 +1,2 @@
 # Statistical_analysis_Insurance
-This notebook statistically analyzes an Insurance Dataset, to see if there are differences in the premiums paid, for different groups of people.
+This Notebook uses Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
